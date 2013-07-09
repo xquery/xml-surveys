@@ -1,0 +1,2594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<formData id="1948626" title="XSLT 2013" name="XSLT 2013">
+<page pID="1">
+  <question qType="1200" qID="3341995">
+    <qText>Please rank the importance of each xslt version</qText>
+    <nText>You can enter some information about this question here.</nText>
+    <options oType="rows">
+      <option oID="1793700">XSLT v1.0</option>
+      <option oID="1793701">XSLT1.0 + exslt</option>
+      <option oID="1793702">XSLT v2.0</option>
+      <option oID="1793703">XSLT v3.0</option>
+    </options>
+    <options oType="cols">
+      <option oID="1638313">Not at all</option>
+      <option oID="1638314">Not very</option>
+      <option oID="1638315">No opinion</option>
+      <option oID="1638316">Somewhat</option>
+      <option oID="1638318">Extremely</option>
+    </options>
+    <responses>
+      <response rID="39555009">
+        <options>
+          <option rowID="1793702" colID="1638314"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793703" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39555067">
+        <options>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793700" colID="1638313"/>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793702" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39555070">
+        <options>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39555191">
+        <options>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793700" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39555220">
+        <options>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793700" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39555335">
+        <options>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793703" colID="1638314"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39555361">
+        <options>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39555367">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638313"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39555449">
+        <options>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39555508">
+        <options>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793700" colID="1638313"/>
+          <option rowID="1793703" colID="1638313"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39555603">
+        <options>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39556058">
+        <options>
+          <option rowID="1793700" colID="1638315"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39556256">
+        <options>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39556341">
+        <options>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793701" colID="1638314"/>
+        </options>
+      </response>
+      <response rID="39556382">
+        <options>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39556391">
+        <options>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793700" colID="1638314"/>
+        </options>
+      </response>
+      <response rID="39556745">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793700" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39556752">
+        <options>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793700" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39556853">
+        <options>
+          <option rowID="1793702" colID="1638313"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39557433">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793703" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39557723">
+        <options>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793700" colID="1638315"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39557797">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793703" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39557956">
+        <options>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793703" colID="1638313"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39557957">
+        <options>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793702" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39558058">
+        <options>
+          <option rowID="1793700" colID="1638313"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39558104">
+        <options>
+          <option rowID="1793700" colID="1638313"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39558122">
+        <options>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39558209">
+        <options>
+          <option rowID="1793700" colID="1638315"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793702" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39558560">
+        <options>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39558579">
+        <options>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793700" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39558855">
+        <options>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793700" colID="1638315"/>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793702" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39559069">
+        <options>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39559250">
+        <options>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793702" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39559516">
+        <options>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793703" colID="1638314"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39560390">
+        <options>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39561578">
+        <options>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793700" colID="1638313"/>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39562191">
+        <options>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39564082">
+        <options>
+          <option rowID="1793702" colID="1638313"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793703" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39565167">
+        <options>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793702" colID="1638314"/>
+          <option rowID="1793703" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39565303">
+        <options>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39566854">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793700" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39567032">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793703" colID="1638313"/>
+          <option rowID="1793700" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39568073">
+        <options>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793703" colID="1638314"/>
+          <option rowID="1793700" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39568826">
+        <options>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39569212">
+        <options>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793700" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39570834">
+        <options>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638314"/>
+        </options>
+      </response>
+      <response rID="39573072">
+        <options>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793700" colID="1638313"/>
+          <option rowID="1793701" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39574172">
+        <options>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39575561">
+        <options>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793700" colID="1638314"/>
+        </options>
+      </response>
+      <response rID="39577543">
+        <options>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793702" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39578114">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793701" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39578380">
+        <options>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39581267">
+        <options>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793700" colID="1638314"/>
+        </options>
+      </response>
+      <response rID="39582838">
+        <options>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793702" colID="1638314"/>
+          <option rowID="1793703" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39583460">
+        <options>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793702" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39587793">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39590107">
+        <options>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39590421">
+        <options>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793700" colID="1638313"/>
+          <option rowID="1793703" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39590459">
+        <options>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793702" colID="1638315"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39591073">
+        <options>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793700" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39592498">
+        <options>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793703" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39595314">
+        <options>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39603841">
+        <options>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39604032">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793700" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39604069">
+        <options>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39604841">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793700" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39604892">
+        <options>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793703" colID="1638313"/>
+          <option rowID="1793700" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39606383">
+        <options>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39608359">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793701" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39612285">
+        <options>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39614519">
+        <options>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793700" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39616184">
+        <options>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39618184">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793700" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39619874">
+        <options>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39622836">
+        <options>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793702" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39639439">
+        <options>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39646004">
+        <options>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638314"/>
+        </options>
+      </response>
+      <response rID="39646765">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793700" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39648302">
+        <options>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39650414">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793703" colID="1638313"/>
+          <option rowID="1793700" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39652450">
+        <options>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793703" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39654193">
+        <options>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793700" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39656518">
+        <options>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793700" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39658916">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793700" colID="1638314"/>
+        </options>
+      </response>
+      <response rID="39666436">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793700" colID="1638313"/>
+          <option rowID="1793703" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39668243">
+        <options>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793703" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39688968">
+        <options>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39690763">
+        <options>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39702790">
+        <options>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638314"/>
+        </options>
+      </response>
+      <response rID="39706651">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793700" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39709548">
+        <options>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39712890">
+        <options>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793700" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39713997">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39729596">
+        <options>
+          <option rowID="1793703" colID="1638313"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793700" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39729794">
+        <options>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39730390">
+        <options>
+          <option rowID="1793701" colID="1638314"/>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39731271">
+        <options>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39743138">
+        <options>
+          <option rowID="1793702" colID="1638315"/>
+          <option rowID="1793700" colID="1638315"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39743331">
+        <options>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="39749115">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793703" colID="1638316"/>
+          <option rowID="1793700" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="39798765">
+        <options>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793700" colID="1638315"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793702" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="39814109">
+        <options>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="39933683">
+        <options>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793701" colID="1638315"/>
+          <option rowID="1793702" colID="1638316"/>
+        </options>
+      </response>
+      <response rID="40011646">
+        <options>
+          <option rowID="1793700" colID="1638315"/>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793703" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+        </options>
+      </response>
+      <response rID="40042373">
+        <options>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793702" colID="1638316"/>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793700" colID="1638314"/>
+        </options>
+      </response>
+      <response rID="40142689">
+        <options>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793700" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="40160896">
+        <options>
+          <option rowID="1793701" colID="1638318"/>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793702" colID="1638315"/>
+          <option rowID="1793703" colID="1638315"/>
+        </options>
+      </response>
+      <response rID="41076930">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793700" colID="1638318"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793703" colID="1638314"/>
+        </options>
+      </response>
+      <response rID="41174603">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793700" colID="1638314"/>
+        </options>
+      </response>
+      <response rID="45685372">
+        <options>
+          <option rowID="1793700" colID="1638316"/>
+          <option rowID="1793701" colID="1638316"/>
+          <option rowID="1793703" colID="1638315"/>
+          <option rowID="1793702" colID="1638318"/>
+        </options>
+      </response>
+      <response rID="46548049">
+        <options>
+          <option rowID="1793702" colID="1638318"/>
+          <option rowID="1793701" colID="1638313"/>
+          <option rowID="1793700" colID="1638314"/>
+          <option rowID="1793703" colID="1638313"/>
+        </options>
+      </response>
+    </responses>
+  </question>
+  <question qType="1300" qID="3342000">
+    <qText>Please rank xslt versions from most important (top) to least important (bottom).</qText>
+    <nText>You can enter some information about this question here.</nText>
+    <responses>
+      <response rID="39555009">XSLT v1.0 + exslt, XSLT v1.0, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39555067">XSLT v3.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39555070">XSLT v1.0, XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39555191">XSLT v1.0, XSLT v1.0 + exslt, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39555220">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39555335">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39555361">XSLT v2.0, XSLT v1.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39555367">XSLT v2.0, XSLT v1.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39555449">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39555508">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39555603">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39556058">XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0, XSLT v3.0</response>
+      <response rID="39556256">XSLT v2.0, XSLT v1.0 + exslt, XSLT v3.0, XSLT v1.0</response>
+      <response rID="39556341">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39556382">XSLT v1.0, XSLT v1.0 + exslt, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39556391">XSLT v1.0 + exslt, XSLT v3.0, XSLT v2.0, XSLT v1.0</response>
+      <response rID="39556745">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39556752">XSLT v2.0, XSLT v1.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39556853">XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt, XSLT v2.0</response>
+      <response rID="39557433">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39557723">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39557797">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39557956">XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0, XSLT v3.0</response>
+      <response rID="39557957">XSLT v1.0, XSLT v1.0 + exslt, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39558058">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39558104">XSLT v3.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39558122">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39558209">XSLT v3.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39558560">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39558579">XSLT v1.0, XSLT v1.0 + exslt, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39558855">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39559069">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39559250">XSLT v3.0, XSLT v1.0, XSLT v2.0, XSLT v1.0 + exslt</response>
+      <response rID="39559516">XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0, XSLT v3.0</response>
+      <response rID="39560390">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39561578">XSLT v1.0, XSLT v1.0 + exslt, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39562191">XSLT v2.0, XSLT v1.0 + exslt, XSLT v3.0, XSLT v1.0</response>
+      <response rID="39564082">XSLT v1.0 + exslt, XSLT v1.0, XSLT v3.0, XSLT v2.0</response>
+      <response rID="39565167">XSLT v1.0, XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39565303">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39566854">XSLT v3.0, XSLT v2.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39567032">XSLT v2.0, XSLT v1.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39568073">XSLT v1.0, XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39568826">XSLT v1.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39569212">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39570834">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39573072">XSLT v3.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39574172">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39575561">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39577543">XSLT v1.0, XSLT v1.0 + exslt, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39578114">XSLT v2.0, XSLT v1.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39578380">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39581267">XSLT v3.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39582838">XSLT v1.0 + exslt, XSLT v1.0, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39583460">XSLT v1.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39587793">XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0, XSLT v3.0</response>
+      <response rID="39590107">XSLT v1.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39590421">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39590459">XSLT v1.0, XSLT v1.0 + exslt, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39591073">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39592498">XSLT v1.0, XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39595314">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39603841">XSLT v3.0, XSLT v2.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39604032">XSLT v2.0, XSLT v1.0 + exslt, XSLT v3.0, XSLT v1.0</response>
+      <response rID="39604069">XSLT v2.0, XSLT v1.0 + exslt, XSLT v3.0, XSLT v1.0</response>
+      <response rID="39604841">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39604892">XSLT v1.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39606383">XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0, XSLT v3.0</response>
+      <response rID="39608359">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39612285">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39614519">XSLT v2.0, XSLT v3.0, XSLT v1.0</response>
+      <response rID="39616184">XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0, XSLT v3.0</response>
+      <response rID="39618184">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39619874">XSLT v1.0 + exslt, XSLT v1.0, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39622836">XSLT v1.0 + exslt, XSLT v1.0, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39639439">XSLT v2.0, XSLT v1.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39646004">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39646765">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39648302">XSLT v3.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39650414">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39652450">XSLT v1.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39654193">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39656518">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39658916">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39666436">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39668243">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39688968">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39690763">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39702790">XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0, XSLT v2.0</response>
+      <response rID="39706651">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39709548">XSLT v1.0, XSLT v1.0 + exslt, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39712890">XSLT v1.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39713997">XSLT v2.0, XSLT v1.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39729596">XSLT v2.0, XSLT v1.0, XSLT v1.0 + exslt, XSLT v3.0</response>
+      <response rID="39729794">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39730390">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39731271">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="39743138">XSLT v1.0 + exslt, XSLT v1.0, XSLT v2.0, XSLT v3.0</response>
+      <response rID="39743331">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="39749115">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39798765">XSLT v3.0, XSLT v1.0, XSLT v2.0, XSLT v1.0 + exslt</response>
+      <response rID="39814109">XSLT v2.0, XSLT v3.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="39933683">XSLT v3.0, XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0</response>
+      <response rID="40011646">XSLT v3.0, XSLT v2.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+      <response rID="40042373">XSLT v1.0 + exslt, XSLT v2.0, XSLT v1.0, XSLT v3.0</response>
+      <response rID="40142689">XSLT v2.0, XSLT v1.0, XSLT v3.0, XSLT v1.0 + exslt</response>
+      <response rID="40160896">XSLT v1.0 + exslt, XSLT v1.0, XSLT v2.0, XSLT v3.0</response>
+      <response rID="41076930">XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0, XSLT v3.0</response>
+      <response rID="41174603">XSLT v1.0 + exslt, XSLT v1.0, XSLT v3.0, XSLT v2.0</response>
+      <response rID="45685372">XSLT v2.0, XSLT v1.0 + exslt, XSLT v1.0, XSLT v3.0</response>
+      <response rID="46548049">XSLT v2.0, XSLT v3.0, XSLT v1.0, XSLT v1.0 + exslt</response>
+    </responses>
+  </question>
+  <question qType="400" qID="3342004">
+    <qText>How long have you been using XSLT ?</qText>
+    <nText>You can enter some information about this question here.</nText>
+    <responses>
+      <response rID="39555009">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="39555067">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39555070">
+        <options>
+          <option oID="6734509">less then 5 years</option>
+        </options>
+      </response>
+      <response rID="39555191">
+        <options>
+          <option oID="6734507">less then a year</option>
+        </options>
+      </response>
+      <response rID="39555220">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39555335">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39555361">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39555367">
+        <options>
+          <option oID="6734507">less then a year</option>
+        </options>
+      </response>
+      <response rID="39555449">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39555508">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39555603">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="39556058">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39556256">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39556341">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39556382">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39556391">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39556745">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39556752">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39556853">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39557433">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39557723">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39557797">
+        <options>
+          <option oID="6734507">less then a year</option>
+        </options>
+      </response>
+      <response rID="39557956">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39557957">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="39558058">
+        <options>
+          <option oID="6734509">less then 5 years</option>
+        </options>
+      </response>
+      <response rID="39558104">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39558122">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39558209">
+        <options>
+          <option oID="6734509">less then 5 years</option>
+        </options>
+      </response>
+      <response rID="39558560">
+        <options>
+          <option oID="6734506">Just started</option>
+        </options>
+      </response>
+      <response rID="39558579">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39558855">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39559069">
+        <options>
+          <option oID="6734509">less then 5 years</option>
+        </options>
+      </response>
+      <response rID="39559250">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39559516">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39560390">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39561578">
+        <options>
+          <option oID="6734507">less then a year</option>
+        </options>
+      </response>
+      <response rID="39562191">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39564082">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39565167">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39565303">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39566854">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39567032">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="39568073">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39568826">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39569212">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39570834">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39573072">
+        <options>
+          <option oID="6734509">less then 5 years</option>
+        </options>
+      </response>
+      <response rID="39574172">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39575561">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39577543">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39578114">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39578380">
+        <options>
+          <option oID="6734509">less then 5 years</option>
+        </options>
+      </response>
+      <response rID="39581267">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39582838">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39583460">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39587793">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39590107">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39590421">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39590459">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39591073">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39592498">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39595314">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39603841">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39604032">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39604069">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39604841">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39604892">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39606383">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39608359">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39612285">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39614519">
+        <options>
+        </options>
+      </response>
+      <response rID="39616184">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39618184">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39619874">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39622836">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39639439">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39646004">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39646765">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39648302">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="39650414">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39652450">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39654193">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39656518">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39658916">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39666436">
+        <options>
+          <option oID="6734509">less then 5 years</option>
+        </options>
+      </response>
+      <response rID="39668243">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="39688968">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39690763">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39702790">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39706651">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39709548">
+        <options>
+          <option oID="6734509">less then 5 years</option>
+        </options>
+      </response>
+      <response rID="39712890">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39713997">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="39729596">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39729794">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39730390">
+        <options>
+          <option oID="6734509">less then 5 years</option>
+        </options>
+      </response>
+      <response rID="39731271">
+        <options>
+          <option oID="6734509">less then 5 years</option>
+        </options>
+      </response>
+      <response rID="39743138">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39743331">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39749115">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="39798765">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="39814109">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="39933683">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="40011646">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="40042373">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="40142689">
+        <options>
+          <option oID="6734508">a few years</option>
+        </options>
+      </response>
+      <response rID="40160896">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="41076930">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="41174603">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="45685372">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+      <response rID="46548049">
+        <options>
+          <option oID="6734510">a long time</option>
+        </options>
+      </response>
+    </responses>
+  </question>
+  <question qType="200" qID="3342005">
+    <qText>Which XSLT processor(s) do you use the most ?</qText>
+    <nText>You can enter some information about this question here.</nText>
+    <responses>
+      <response rID="39555009">libxslt in conjunction with PHP for CMS purposes (symphony-cms.com), xsltproc for small day to day tools</response>
+      <response rID="39555067">saxon, ml</response>
+      <response rID="39555070">saxon 9</response>
+      <response rID="39555191">Datapower</response>
+      <response rID="39555220">saxon</response>
+      <response rID="39555335">Saxon</response>
+      <response rID="39555361">Mostly Saxon, when possible, otherwise default</response>
+      <response rID="39555367">Saxon 9 HE</response>
+      <response rID="39555449">Saxon 9.x  libxslt</response>
+      <response rID="39555508">saxon, also have license for EE but not use it - it was bought as present for Mike Kay at last Christmas :)</response>
+      <response rID="39555603">Saxon</response>
+      <response rID="39556058">libxslt  saxon  firefox</response>
+      <response rID="39556256">xalan  saxon</response>
+      <response rID="39556341">MSXML, Transformiix, libxml</response>
+      <response rID="39556382">Saxon mainly</response>
+      <response rID="39556391">MarkLogic, xsltproc</response>
+      <response rID="39556745">Saxon (mostly)</response>
+      <response rID="39556752">Saxon 9  Xalan</response>
+      <response rID="39556853">saxon</response>
+      <response rID="39557433">Saxon EE 9.4</response>
+      <response rID="39557723">Saxon</response>
+      <response rID="39557797">sometimes xsltproc, if any</response>
+      <response rID="39557956">Saxon, xsltproc (libxslt), Java Buildin (Xalan) Altova (which was a wrapper around MSXML I think) before 2003</response>
+      <response rID="39557957">xsltproc</response>
+      <response rID="39558058">Saxon</response>
+      <response rID="39558104">Saxon</response>
+      <response rID="39558122">Saxon 9</response>
+      <response rID="39558209">Saxon HE</response>
+      <response rID="39558560">Saxon HE</response>
+      <response rID="39558579">saxon</response>
+      <response rID="39558855">Saxon Home Edition</response>
+      <response rID="39559069">Saxon</response>
+      <response rID="39559250">LibXml XSLT (xslproc)</response>
+      <response rID="39559516">Saxon,  xsltproc</response>
+      <response rID="39560390">Saxon HE  Saxon PE/EE only within my XML IDE (oXygen)</response>
+      <response rID="39561578">saxon EE</response>
+      <response rID="39562191">saxon 9 in Oxygen</response>
+      <response rID="39564082"></response>
+      <response rID="39565167">System.Xml from .NET.</response>
+      <response rID="39565303">SAXON</response>
+      <response rID="39566854">Saxon 9.x, Saxon 6.5.x, XMLPrime, AltovaXML, MSXML (6,4,3)</response>
+      <response rID="39567032">Saxon HE</response>
+      <response rID="39568073">browser implementations on the cient, various java implementations on the server</response>
+      <response rID="39568826">Saxon</response>
+      <response rID="39569212">Saxon when I can (mostly .NET, or via oXygen for data conversions); Xalan and .NET System.Xml.Xsl when I have to.</response>
+      <response rID="39570834">1. Saxon HE or Saxon PE for .net and Java  2. Saxon CE</response>
+      <response rID="39573072">saxon</response>
+      <response rID="39574172">Saxon</response>
+      <response rID="39575561">saxon9he</response>
+      <response rID="39577543">MSXML</response>
+      <response rID="39578114">saxon</response>
+      <response rID="39578380">Transformatio through XML Spy Editor  Saxon EE</response>
+      <response rID="39581267">Saxon 9.4 (EE / PE)  MarkLogic</response>
+      <response rID="39582838">libxslt, occasionally Saxon.</response>
+      <response rID="39583460">DotNet  MSXSL  Saxon</response>
+      <response rID="39587793">Depends on clients environment:    Saxon (all flavors)  Xalan</response>
+      <response rID="39590107">Saxon, xalan</response>
+      <response rID="39590421">Saxon</response>
+      <response rID="39590459">libxslt/xsltproc</response>
+      <response rID="39591073">Saxon, AltovaXML</response>
+      <response rID="39592498">Saxon</response>
+      <response rID="39595314">Saxon (latest or recent version)</response>
+      <response rID="39603841">Saxon</response>
+      <response rID="39604032">Saxon 9 and Saxon 6.5</response>
+      <response rID="39604069">Saxon  xsltproc</response>
+      <response rID="39604841">Saxon 9.4.x</response>
+      <response rID="39604892">Saxon</response>
+      <response rID="39606383">Saxon</response>
+      <response rID="39608359">Saxon</response>
+      <response rID="39612285">Saxon</response>
+      <response rID="39614519"></response>
+      <response rID="39616184">Saxon PE, Xalan, MSXML, LiBXSLT and browser</response>
+      <response rID="39618184">Saxon  MSXML  xalan</response>
+      <response rID="39619874">xsltproc</response>
+      <response rID="39622836">Saxon, FF, MSXSL</response>
+      <response rID="39639439">Saxon</response>
+      <response rID="39646004">saxon9</response>
+      <response rID="39646765">saxonica</response>
+      <response rID="39648302">Saxon</response>
+      <response rID="39650414">saxon</response>
+      <response rID="39652450">Saxon and occasionally Xalan to check my work.</response>
+      <response rID="39654193">Saxon 9.1</response>
+      <response rID="39656518">Sax</response>
+      <response rID="39658916">Saxon-HE</response>
+      <response rID="39666436">Saxon 9.0.1.7</response>
+      <response rID="39668243">Saxon, Via Orbeon Forms</response>
+      <response rID="39688968">SAXON</response>
+      <response rID="39690763">Saxonica's Saxon-SA (Schema Aware)</response>
+      <response rID="39702790">SAXON</response>
+      <response rID="39706651">Saxon</response>
+      <response rID="39709548">libxslt</response>
+      <response rID="39712890">libxslt (libxml2), Saxon</response>
+      <response rID="39713997">Saxon 9.1. standalone (free edition)  Saxon EE (bundled with oXygen 14)</response>
+      <response rID="39729596">Saxon 9  Saxon 6  Xalan</response>
+      <response rID="39729794">saxon</response>
+      <response rID="39730390">Saxon-B 9.1.0.8  Saxon-HE  Saxon-PE</response>
+      <response rID="39731271">saxon</response>
+      <response rID="39743138">I only use the version bundled with apache fop    I have no idea which version I'm using "the latest" probably</response>
+      <response rID="39743331">Oxygen (Saxon)</response>
+      <response rID="39749115"></response>
+      <response rID="39798765">saxon</response>
+      <response rID="39814109">saxon</response>
+      <response rID="39933683">Saxon</response>
+      <response rID="40011646">saxon</response>
+      <response rID="40042373">JDK built-in Xalan</response>
+      <response rID="40142689">I tend to use 2.0 the most, but some of our systems only have support for 1.0 (and then using the .Net processor).   I love to use the 2.0 as it makes a lot of things so much easier to do.</response>
+      <response rID="40160896">xsltproc  saxon  xalan</response>
+      <response rID="41076930">Saxon 9 PE</response>
+      <response rID="41174603">Saxon</response>
+      <response rID="45685372">Saxon</response>
+      <response rID="46548049">saxon9</response>
+    </responses>
+  </question>
+  <question qType="400" qID="3342006">
+    <qText>What environment/operating system do you run your XSLT in ?</qText>
+    <nText>You can enter some information about this question here.</nText>
+    <responses>
+      <response rID="39555009">
+        <options>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39555067">
+        <options>
+          <option oID="6734528">Linux</option>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="39555070">
+        <options>
+        </options>
+      </response>
+      <response rID="39555191">
+        <options>
+          <otherText>Datapower</otherText>
+        </options>
+      </response>
+      <response rID="39555220">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39555335">
+        <options>
+          <otherText>Browsers</otherText>
+          <option oID="6734528">Linux</option>
+          <option oID="6734529">OSX</option>
+        </options>
+      </response>
+      <response rID="39555361">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39555367">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39555449">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+          <option oID="6734529">OSX</option>
+        </options>
+      </response>
+      <response rID="39555508">
+        <options>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39555603">
+        <options>
+          <option oID="6734529">OSX</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39556058">
+        <options>
+          <otherText>FreeBSD, Windows</otherText>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39556256">
+        <options>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39556341">
+        <options>
+          <otherText>Browser/Javascript</otherText>
+        </options>
+      </response>
+      <response rID="39556382">
+        <options>
+          <option oID="6734528">Linux</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39556391">
+        <options>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39556745">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734529">OSX</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39556752">
+        <options>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39556853">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39557433">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39557723">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39557797">
+        <options>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39557956">
+        <options>
+          <otherText>Windows before 2003</otherText>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39557957">
+        <options>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39558058">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734529">OSX</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39558104">
+        <options>
+          <option oID="6734528">Linux</option>
+          <option oID="6734513">Java</option>
+          <option oID="6734529">OSX</option>
+        </options>
+      </response>
+      <response rID="39558122">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734529">OSX</option>
+        </options>
+      </response>
+      <response rID="39558209">
+        <options>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39558560">
+        <options>
+          <option oID="6734529">OSX</option>
+        </options>
+      </response>
+      <response rID="39558579">
+        <options>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39558855">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39559069">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39559250">
+        <options>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39559516">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+          <option oID="6734529">OSX</option>
+        </options>
+      </response>
+      <response rID="39560390">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39561578">
+        <options>
+          <otherText>Sun</otherText>
+          <option oID="6734528">Linux</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39562191">
+        <options>
+          <otherText>Windows</otherText>
+        </options>
+      </response>
+      <response rID="39564082">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39565167">
+        <options>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="39565303">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39566854">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="39567032">
+        <options>
+          <otherText>and Solaris</otherText>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39568073">
+        <options>
+          <otherText>browser</otherText>
+          <option oID="6734528">Linux</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39568826">
+        <options>
+          <option oID="6734529">OSX</option>
+          <option oID="6734514">.NET</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39569212">
+        <options>
+          <option oID="6734528">Linux</option>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="39570834">
+        <options>
+          <otherText>Browser</otherText>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="39573072">
+        <options>
+          <otherText>SunOS</otherText>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39574172">
+        <options>
+          <otherText>Unix</otherText>
+          <option oID="6734528">Linux</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39575561">
+        <options>
+          <option oID="6734529">OSX</option>
+        </options>
+      </response>
+      <response rID="39577543">
+        <options>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="39578114">
+        <options>
+          <otherText>solaris</otherText>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39578380">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39581267">
+        <options>
+          <option oID="6734528">Linux</option>
+          <option oID="6734529">OSX</option>
+        </options>
+      </response>
+      <response rID="39582838">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+          <option oID="6734529">OSX</option>
+        </options>
+      </response>
+      <response rID="39583460">
+        <options>
+          <otherText>Windows</otherText>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="39587793">
+        <options>
+          <otherText>Windows</otherText>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39590107">
+        <options>
+          <option oID="6734514">.NET</option>
+          <option oID="6734513">Java</option>
+          <option oID="6734529">OSX</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39590421">
+        <options>
+          <option oID="6734528">Linux</option>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39590459">
+        <options>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39591073">
+        <options>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39592498">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39595314">
+        <options>
+          <otherText>I write XSLT widely deployed to other platforms</otherText>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39603841">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39604032">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39604069">
+        <options>
+          <otherText>Web Browser</otherText>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39604841">
+        <options>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39604892">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734529">OSX</option>
+        </options>
+      </response>
+      <response rID="39606383">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39608359">
+        <options>
+          <option oID="6734528">Linux</option>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39612285">
+        <options>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="39614519">
+        <options>
+        </options>
+      </response>
+      <response rID="39616184">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39618184">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39619874">
+        <options>
+          <option oID="6734529">OSX</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39622836">
+        <options>
+          <otherText>browser</otherText>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39639439">
+        <options>
+          <option oID="6734514">.NET</option>
+          <option oID="6734529">OSX</option>
+          <option oID="6734528">Linux</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39646004">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39646765">
+        <options>
+          <otherText>windows</otherText>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39648302">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39650414">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39652450">
+        <options>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+          <option oID="6734514">.NET</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39654193">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39656518">
+        <options>
+          <option oID="6734528">Linux</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39658916">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39666436">
+        <options>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="39668243">
+        <options>
+          <otherText>Solaris</otherText>
+          <option oID="6734513">Java</option>
+          <option oID="6734529">OSX</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39688968">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39690763">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39702790">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="39706651">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39709548">
+        <options>
+          <otherText>Windox</otherText>
+          <option oID="6734529">OSX</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39712890">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39713997">
+        <options>
+          <otherText>Windows</otherText>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39729596">
+        <options>
+          <option oID="6734514">.NET</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39729794">
+        <options>
+          <option oID="6734513">Java</option>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="39730390">
+        <options>
+          <otherText>Windows</otherText>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39731271">
+        <options>
+          <option oID="6734514">.NET</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39743138">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39743331">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39749115">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="39798765">
+        <options>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39814109">
+        <options>
+          <otherText>windows</otherText>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="39933683">
+        <options>
+          <otherText>Windows 7</otherText>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="40011646">
+        <options>
+          <otherText>Windows - how could you ignore this ?</otherText>
+          <option oID="6734528">Linux</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="40042373">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="40142689">
+        <options>
+          <option oID="6734514">.NET</option>
+        </options>
+      </response>
+      <response rID="40160896">
+        <options>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="41076930">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="41174603">
+        <options>
+          <option oID="6734529">OSX</option>
+          <option oID="6734528">Linux</option>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+      <response rID="45685372">
+        <options>
+          <otherText>Windows</otherText>
+          <option oID="6734529">OSX</option>
+          <option oID="6734513">Java</option>
+          <option oID="6734528">Linux</option>
+        </options>
+      </response>
+      <response rID="46548049">
+        <options>
+          <option oID="6734513">Java</option>
+        </options>
+      </response>
+    </responses>
+  </question>
+  <question qType="200" qID="3342008">
+    <qText>Please provide any additional information about how you use XSLT, expectations for the future or any general comment you would like to make.</qText>
+    <nText>You can enter some information about this question here.</nText>
+    <responses>
+      <response rID="39555009"></response>
+      <response rID="39555067"></response>
+      <response rID="39555070"></response>
+      <response rID="39555191"></response>
+      <response rID="39555220"></response>
+      <response rID="39555335"></response>
+      <response rID="39555361">I see more and more use of xslt on big xml files (&gt; 500MB)  I mostly use xslt from a small java program to configure stylesheets, input/output and parameters,</response>
+      <response rID="39555367"></response>
+      <response rID="39555449">My web sites are fully XML based and run on a combination of XSLT and XQuery , where the choice on which one to use for a task is sometimes a bit arbitrary ;-) For XSLT 3.0 I'm most interested in the streaming capabilities, but I haven't tried them out yet.</response>
+      <response rID="39555508">mostly in eXist-db</response>
+      <response rID="39555603"></response>
+      <response rID="39556058">transform ISO-2709/marcxml bib. records  web apps</response>
+      <response rID="39556256">There's always a discrepancy between the new technology developments and the demand for them. Business tends to be slow in adapting new technologies. With reason, business is about making money, not about using cool technology. If the new technology proofs to be a better version and/or makes tasks more simple and/or faster, then the adaptation process will be quite equivalently fast.</response>
+      <response rID="39556341"></response>
+      <response rID="39556382">Needs to be more portable! Also needs more support for newer versions on different platforms, just having Saxon support for 2.0 and probably 3.0 is simply not enough, many people are depending on the libxslt implementation for their tools at the moment!</response>
+      <response rID="39556391"></response>
+      <response rID="39556745"></response>
+      <response rID="39556752"></response>
+      <response rID="39556853"></response>
+      <response rID="39557433">Most prominently, I’d like to see the XSLT 3 features try/catch, new template matching patterns, maps, function items, the corresponding XPath 3 functions, in a free version of saxon. So basically everything except streaming, where I’d consider it very appropriate to pay a premium for. But baseline XSLT/XPath 3 will drastically improve my daily coding, and I’d like to give away some of the code that I write as open source libraries. People won’t adopt it if they need a commercial processor for it.</response>
+      <response rID="39557723"></response>
+      <response rID="39557797">I actually do not use XSLT at all.    I just want to say that XSLT is aweful, and everyone should switch to XQuery. Much better.    Make an XQuery survey</response>
+      <response rID="39557956">I miss xsltproc with XSLT 2.0</response>
+      <response rID="39557957">Transforming input documents into different formats.</response>
+      <response rID="39558058"></response>
+      <response rID="39558104">Functional baby!</response>
+      <response rID="39558122"></response>
+      <response rID="39558209"></response>
+      <response rID="39558560"></response>
+      <response rID="39558579"></response>
+      <response rID="39558855">I am interested in advances in the language such as closures, which I am familiar with in JavaScript.    I learned XPath 1.0 and XSLT 1.0 by reading an introduction book with design patterns in XSLT and reading the full text of the recommendations from W3C.    I learned XSLT 2.0 on the job, peacemeal, using Michael Kay's "XSLT 2.0 and XPath 2.0" as a reference. I could not get myself to read the W3C recomendations this time, due to the perceived level of complexity and the modularization : too many cross-references, no clear entry point for learning.    I will probably switch to 3.0 if Saxon H E supports it, learning the new features on a need to know basis.</response>
+      <response rID="39559069">non-programmer, librarian working with metadata all marked up in the extensible</response>
+      <response rID="39559250"></response>
+      <response rID="39559516">-- none --</response>
+      <response rID="39560390"></response>
+      <response rID="39561578">XML document transformation.  HTML create.</response>
+      <response rID="39562191">Streaming is likely to be important. Maybe first class functions.</response>
+      <response rID="39564082"></response>
+      <response rID="39565167"></response>
+      <response rID="39565303">The lack of a free XSLT processor impedes its adoption. The W3C should provide a free reference implementation of an XSLT processor.</response>
+      <response rID="39566854">I expect that in the future XPath 3.0 will be a separate, stand-alone programming language. All function libraries will be written in pure XPath 3.0 (3.1) thus portable between XSLT and XQuery.     I expect the new XPath 3.0/3.1 data structures such as maps and arrays to be used extensively.</response>
+      <response rID="39567032">How: Sparingly. Where its fortes really help.    Having to use three or four reference documentations while writing one program is hard: XSLT, XPath, XQuery/XPath Functions and Operators, XML Schema Datatypes.</response>
+      <response rID="39568073"></response>
+      <response rID="39568826"></response>
+      <response rID="39569212">Mostly for XSLT-based CMS or websites; occasionally for TEI (Text Encoding Initiative) projects.</response>
+      <response rID="39570834">1. XSLT Specification does not appear to address the productivity of XSLT editing when using a dedicated XSLT editor - e.g. features that could enhance schema-aware auto-complete    2. The W3C XSLT website - http://www.w3.org/TR/xslt - still references the XSLT 1.0 recommendation, this is wrong - it should reference the most recent recommendation    3. In future, the XSLT and  XProc specifications should be aligned.</response>
+      <response rID="39573072"></response>
+      <response rID="39574172"></response>
+      <response rID="39575561">Use XSLT from command line + OxygenXML editor. Don't know anything about 3.0 yet.</response>
+      <response rID="39577543"></response>
+      <response rID="39578114"></response>
+      <response rID="39578380"></response>
+      <response rID="39581267">XSLT is 100% critical to the daily workflow and production environment of my organization.</response>
+      <response rID="39582838">I mostly convert DocBook to HTML, with occasional XHTML to XHTML transforms and other similar strange bits.</response>
+      <response rID="39583460">XML/XSLT is a really great technologie  I use it in TechComm publishing processes</response>
+      <response rID="39587793">Transformation and validation!</response>
+      <response rID="39590107"></response>
+      <response rID="39590421">Content processing pipelines, Web-Service versioning, PDF-generation with FO, Datadriven metadata documentation.</response>
+      <response rID="39590459"></response>
+      <response rID="39591073">I hope the final XSLT / XPath / XQuery 3.0 specs will be released soon.</response>
+      <response rID="39592498"></response>
+      <response rID="39595314">XSLT may always be considered to be a niche technology because developers with strong XSLT skills may always be a rare breed, while there are few things worse than bad XSLT. Nevertheless it is so powerful in its domain, and such a good complement to other technologies, that I don't expect to be migrating off it in the foreseeable future.</response>
+      <response rID="39603841"></response>
+      <response rID="39604032"></response>
+      <response rID="39604069"></response>
+      <response rID="39604841"></response>
+      <response rID="39604892"></response>
+      <response rID="39606383">together with FO for generating PDF</response>
+      <response rID="39608359">XSLT rocks.  --Alex ;)</response>
+      <response rID="39612285">I use XSLT extensively for most of my work in a SQL/ASP stack in order to output XHTML, XSL-FO as well as reports (XML, SpreadsheetML, HTML). Lately though I'm approaching what xforms already does, so I'm exploring the use of the XRX stack as a possible replacement. In that case I'll still be using XSLT too.</response>
+      <response rID="39614519"></response>
+      <response rID="39616184"></response>
+      <response rID="39618184">Curious what the support for XSLT, XPath and XQuery 3.0 will be moving forward.   It would be nice to have built-in support for 2.0 and 3.0 in major frameworks like Java,.NET, and browsers.</response>
+      <response rID="39619874">Simplify, simplify, simplify but no simpler!    I would love to see a lightweight xpath function protocol based on the overlap between HTTP query strings and posix shell pipelines.</response>
+      <response rID="39622836"></response>
+      <response rID="39639439"></response>
+      <response rID="39646004"></response>
+      <response rID="39646765">Streaming is important.  Schema-aware is very useful.  Support as good as that given by Michael Kay is indispensable.</response>
+      <response rID="39648302"></response>
+      <response rID="39650414">what the heck?</response>
+      <response rID="39652450">As a developer an integrator of editorial content management systems, XSLT is a critical technology for enabling crossplatform publishing. My customers use XSLT to convert content for various output formats, extract and transform XMP, and, most importantly, connect systems together. If XML is the 'lingua Franca', XSLT is the 'Babel fish'.</response>
+      <response rID="39654193">Main usage:  - generation of ant scripts based on xml configuration  - processing/generation of excel files (mainly xml format of Excel 2003; xlsx as well but due to the complicated structure of files inside xlsx zip only in a limited manner) - those excel files contains configuration data, language resources (these are merged into java property files..)  - documentation generation (PDF, html,..)  - generation of data files for relational databases  - data validation  - in the browser with Saxon-CE, great potential    Expectations:  - support for zip files creation/parsing  - libraries for charting to SVG</response>
+      <response rID="39656518">I use XSLT to transform SGML &amp; XML sources to HTML &amp; FO.</response>
+      <response rID="39658916"></response>
+      <response rID="39666436">Saxon is called from within a C# application to processes result data held as XML documents into HTML for display in a browser. This an operational system is used by the navy and air force to monitor military helicopter structural vibration.    There are currently no plans to upgrade to use XSLT 3.0. A watch is being kept on the progress of XSLT 3.0 and once stable with stable products an upgrade will be considered.</response>
+      <response rID="39668243"></response>
+      <response rID="39688968"></response>
+      <response rID="39690763">Very happy with the direction of XSLT and looking forward to taking advantage of 3.0 features.     Full disclosure: I am the Chair of the W3C XML Query WG.</response>
+      <response rID="39702790"></response>
+      <response rID="39706651">Have used it a lot with Apache Cocoon and pipelines in general.</response>
+      <response rID="39709548"></response>
+      <response rID="39712890">I use XSLT mostly for documentation purposes (technical information querying and publishing) and for cross-languages translation. I expect more from the various APIs to keep up with the 2.0 specification than from the &gt;2.0 spec to bring new features.</response>
+      <response rID="39713997">Invoking from shell scripts / batch files and from inside Java.  Mostly plain transformations XML to XML or XML to flat file,  Generation of XSLT stylesheets through meta-stylesheets.  Enhancing a generic XML Schema with domain-specific schematron rules.  Mostly modest data volumes (99% &lt; 10 MB).    Looking forward to testing XSLT 3.0's streaming capabilities as it promises to enables us to process very large files (1G+) performantly and with reasonable requirements on hardfware.</response>
+      <response rID="39729596">I'd like to see    better integration in Eclipse  more libraries</response>
+      <response rID="39729794">We use it for everything. Sometimes I also cook with XSLT...</response>
+      <response rID="39730390"></response>
+      <response rID="39731271"></response>
+      <response rID="39743138">Only to transform XML to PDF with apache FOP - I haven't a clue which version I use.    I only do simple things - the problem is not XSLT - but knowing what output to produce.</response>
+      <response rID="39743331"></response>
+      <response rID="39749115"></response>
+      <response rID="39798765">as functional programmer I appriciate higher order function support in v3.0.</response>
+      <response rID="39814109"></response>
+      <response rID="39933683"></response>
+      <response rID="40011646">I prefer XQuery over XSLT any day and night.  However I frequently have to manage other author's use of XSLT therefor I need to use it.   XSLT in the browser I think has become a lost cause.  Rather the server is preparing HTML content to serve to browsers and I think that is the right way.  I dont see the lack of XSLT 3.0 in browser a problem.  I *do* see the lack of XSLT 3.0 on servers a problem.   Many companies are choosing simply to not go past XSLT 1 or 2 ... this is a bad thing.</response>
+      <response rID="40042373">Use: EDI message translation, e.g. Edifact, X12, internal schema (90%), master data/codelists conversion</response>
+      <response rID="40142689">Weam using XSLT to convert XML-files from one format to the format that we are using internally in the company.  We have created a normalizer software that does this for me. For this I am using XSLT 2.0.    We are also using XSLT 1.0 when sending out messages to clients. this is older software that has run for close to ten years and so we don't open it up to do minor or breaking changes.</response>
+      <response rID="40160896"></response>
+      <response rID="41076930"></response>
+      <response rID="41174603"></response>
+      <response rID="45685372">Please see http://www.cameditor.org - possibly the most extensive use of XSLT in an XML tool - over 80,000 lines of XSLT code and counting...</response>
+      <response rID="46548049">run from ant</response>
+    </responses>
+  </question>
+  </page>
+  <respondents rID="39555009" ipaddress="153.96.215.253" countryCode="DE" countryName="Germany" started="2013-01-28 04:52:25" ended="2013-01-28 04:53:29" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 17.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39555067" ipaddress="83.208.57.132" countryCode="CZ" countryName="Czech Republic" started="2013-01-28 04:53:30" ended="2013-01-28 04:55:52" ><user_agent source_type="Browser" sub_type="Direct"><platform></platform><agent></agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39555070" ipaddress="115.114.96.2" countryCode="IN" countryName="India" started="2013-01-28 04:53:02" ended="2013-01-28 04:55:09" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows XP</platform><agent>IE 8.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39555191" ipaddress="60.241.77.126" countryCode="AU" countryName="Australia" started="2013-01-28 04:55:43" ended="2013-01-28 04:57:23" ><user_agent source_type="Mobile Device" sub_type="Direct"><platform>iOS 5.1</platform><agent>Safari 5.1</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39555220" ipaddress="193.130.68.17" countryCode="GB" countryName="United Kingdom" started="2013-01-28 04:56:17" ended="2013-01-28 04:58:06" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Chrome 24.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39555335" ipaddress="46.126.158.51" countryCode="CH" countryName="Switzerland" started="2013-01-28 04:59:25" ended="2013-01-28 05:00:40" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Firefox 16.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39555361" ipaddress="95.97.147.184" countryCode="NL" countryName="Netherlands" started="2013-01-28 04:52:57" ended="2013-01-28 05:01:38" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows Vista</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39555367" ipaddress="93.178.244.70" countryCode="UA" countryName="Ukraine" started="2013-01-28 04:59:56" ended="2013-01-28 05:01:37" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows XP</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39555449" ipaddress="192.87.139.123" countryCode="NL" countryName="Netherlands" started="2013-01-28 04:58:31" ended="2013-01-28 05:03:10" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39555508" ipaddress="178.177.148.30" countryCode="RU" countryName="Russia" started="2013-01-28 05:00:40" ended="2013-01-28 05:04:24" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39555603" ipaddress="212.201.99.254" countryCode="DE" countryName="Germany" started="2013-01-28 05:05:13" ended="2013-01-28 05:06:33" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Safari 6.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39556058" ipaddress="46.236.131.57" countryCode="RU" countryName="Russia" started="2013-01-28 05:07:41" ended="2013-01-28 05:15:56" ><user_agent source_type="Browser" sub_type="Direct"><platform>FreeBSD</platform><agent>Firefox 16.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39556256" ipaddress="82.92.95.202" countryCode="NL" countryName="Netherlands" started="2013-01-28 05:13:29" ended="2013-01-28 05:19:46" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39556341" ipaddress="87.213.46.130" countryCode="NL" countryName="Netherlands" started="2013-01-28 05:20:01" ended="2013-01-28 05:21:31" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39556382" ipaddress="194.106.133.113" countryCode="IE" countryName="Ireland" started="2013-01-28 05:17:25" ended="2013-01-28 05:22:11" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39556391" ipaddress="86.24.203.198" countryCode="GB" countryName="United Kingdom" started="2013-01-28 04:55:18" ended="2013-01-28 05:22:22" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Chrome 20.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39556745" ipaddress="92.69.204.64" countryCode="NL" countryName="Netherlands" started="2013-01-28 05:27:33" ended="2013-01-28 05:28:51" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Safari 6.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39556752" ipaddress="84.145.235.230" countryCode="DE" countryName="Germany" started="2013-01-28 05:26:28" ended="2013-01-28 05:28:58" ><user_agent source_type="Browser" sub_type="Direct"><platform></platform><agent></agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39556853" ipaddress="167.206.189.6" countryCode="US" countryName="United States" started="2013-01-28 05:29:42" ended="2013-01-28 05:31:21" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows XP</platform><agent>Firefox 18.0</agent><referrer>http://t.co/2mm6ISys</referrer></user_agent></respondents>
+  <respondents rID="39557433" ipaddress="80.64.176.91" countryCode="DE" countryName="Germany" started="2013-01-28 05:19:27" ended="2013-01-28 05:42:46" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39557723" ipaddress="134.100.126.2" countryCode="DE" countryName="Germany" started="2013-01-28 05:48:02" ended="2013-01-28 05:49:22" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39557797" ipaddress="93.129.21.4" countryCode="DE" countryName="Germany" started="2013-01-28 05:46:45" ended="2013-01-28 05:50:38" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 10.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39557956" ipaddress="134.76.162.165" countryCode="DE" countryName="Germany" started="2013-01-28 05:40:35" ended="2013-01-28 05:53:33" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39557957" ipaddress="137.158.153.204" countryCode="ZA" countryName="South Africa" started="2013-01-28 05:51:44" ended="2013-01-28 05:53:34" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Chrome 23.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39558058" ipaddress="213.240.137.10" countryCode="DE" countryName="Germany" started="2013-01-28 05:51:36" ended="2013-01-28 05:54:57" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39558104" ipaddress="80.254.147.68" countryCode="GB" countryName="United Kingdom" started="2013-01-28 05:52:52" ended="2013-01-28 05:55:55" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Chrome 20.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39558122" ipaddress="82.77.173.100" countryCode="RO" countryName="Romania" started="2013-01-28 05:55:21" ended="2013-01-28 05:56:24" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39558209" ipaddress="217.174.120.185" countryCode="IT" countryName="Italy" started="2013-01-28 05:55:35" ended="2013-01-28 05:57:59" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 13.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39558560" ipaddress="107.192.221.51" countryCode="XX" countryName="Unknown" started="2013-01-28 06:02:37" ended="2013-01-28 06:04:11" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Safari 6.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39558579" ipaddress="86.163.3.233" countryCode="GB" countryName="United Kingdom" started="2013-01-28 06:03:36" ended="2013-01-28 06:04:52" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39558855" ipaddress="88.163.134.78" countryCode="FR" countryName="France" started="2013-01-28 06:00:20" ended="2013-01-28 06:08:39" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39559069" ipaddress="76.0.60.84" countryCode="US" countryName="United States" started="2013-01-28 06:08:25" ended="2013-01-28 06:12:19" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows Vista</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39559250" ipaddress="121.44.215.207" countryCode="AU" countryName="Australia" started="2013-01-28 06:13:00" ended="2013-01-28 06:15:03" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Safari 4.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39559516" ipaddress="78.94.124.87" countryCode="DE" countryName="Germany" started="2013-01-28 06:18:45" ended="2013-01-28 06:20:47" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39560390" ipaddress="82.236.221.131" countryCode="FR" countryName="France" started="2013-01-28 06:33:22" ended="2013-01-28 06:37:36" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39561578" ipaddress="46.218.155.148" countryCode="FR" countryName="France" started="2013-01-28 06:48:26" ended="2013-01-28 06:51:40" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows XP</platform><agent>IE 6.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39562191" ipaddress="74.44.141.216" countryCode="US" countryName="United States" started="2013-01-28 06:56:42" ended="2013-01-28 06:58:41" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>IE 10.0</agent><referrer>http://us-mg6.mail.yahoo.com/neo/launch?.rand=f063s7h45bgkk</referrer></user_agent></respondents>
+  <respondents rID="39564082" ipaddress="110.33.204.146" countryCode="AU" countryName="Australia" started="2013-01-28 07:16:20" ended="2013-01-28 07:19:00" ><user_agent source_type="Mobile Device" sub_type="Direct"><platform>iOS 6</platform><agent>Safari 6</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39565167" ipaddress="99.177.126.136" countryCode="US" countryName="United States" started="2013-01-28 07:27:48" ended="2013-01-28 07:29:35" ><user_agent source_type="Browser" sub_type="Direct"><platform></platform><agent></agent><referrer>http://t.co/2mm6ISys</referrer></user_agent></respondents>
+  <respondents rID="39565303" ipaddress="129.83.31.2" countryCode="US" countryName="United States" started="2013-01-28 07:26:41" ended="2013-01-28 07:30:48" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>IE 9.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39566854" ipaddress="98.232.109.175" countryCode="US" countryName="United States" started="2013-01-28 07:38:57" ended="2013-01-28 07:44:11" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>IE 9.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39567032" ipaddress="91.114.12.213" countryCode="AT" countryName="Austria" started="2013-01-28 07:40:08" ended="2013-01-28 07:45:40" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Mozilla 1.9</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39568073" ipaddress="94.71.13.165" countryCode="GR" countryName="Greece" started="2013-01-28 07:52:38" ended="2013-01-28 07:54:04" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39568826" ipaddress="79.249.96.21" countryCode="DE" countryName="Germany" started="2013-01-28 07:58:23" ended="2013-01-28 08:00:20" ><user_agent source_type="Mobile Device" sub_type="Direct"><platform>iOS 6</platform><agent>Safari 6</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39569212" ipaddress="81.243.121.26" countryCode="BE" countryName="Belgium" started="2013-01-28 07:50:09" ended="2013-01-28 08:03:37" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows XP</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39570834" ipaddress="188.30.116.2" countryCode="GB" countryName="United Kingdom" started="2013-01-28 08:02:28" ended="2013-01-28 08:16:25" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 8</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39573072" ipaddress="46.218.155.148" countryCode="FR" countryName="France" started="2013-01-28 05:23:54" ended="2013-01-28 08:33:35" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39574172" ipaddress="69.167.69.3" countryCode="US" countryName="United States" started="2013-01-28 08:24:15" ended="2013-01-28 08:42:41" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39575561" ipaddress="80.129.30.10" countryCode="DE" countryName="Germany" started="2013-01-28 08:52:21" ended="2013-01-28 08:54:32" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Safari 6.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39577543" ipaddress="174.141.243.6" countryCode="US" countryName="United States" started="2013-01-28 09:11:01" ended="2013-01-28 09:12:18" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows XP</platform><agent>IE 7.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39578114" ipaddress="213.208.231.65" countryCode="GB" countryName="United Kingdom" started="2013-01-28 09:15:27" ended="2013-01-28 09:17:44" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 10.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39578380" ipaddress="193.96.226.18" countryCode="DE" countryName="Germany" started="2013-01-28 09:18:04" ended="2013-01-28 09:20:05" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39581267" ipaddress="128.143.36.222" countryCode="US" countryName="United States" started="2013-01-28 09:45:19" ended="2013-01-28 09:46:59" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39582838" ipaddress="24.59.184.80" countryCode="US" countryName="United States" started="2013-01-28 09:59:50" ended="2013-01-28 10:01:17" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39583460" ipaddress="87.151.71.140" countryCode="DE" countryName="Germany" started="2013-01-28 10:03:10" ended="2013-01-28 10:05:56" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>IE 9.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39587793" ipaddress="207.168.47.25" countryCode="US" countryName="United States" started="2013-01-28 10:41:35" ended="2013-01-28 10:44:05" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>IE 9.0</agent><referrer>http://www.eccnet.com/webmail/src/read_body.php?mailbox=Technology%2FXSLT&amp;passed_id=5443&amp;startMessage=1</referrer></user_agent></respondents>
+  <respondents rID="39590107" ipaddress="199.180.145.100" countryCode="US" countryName="United States" started="2013-01-28 10:23:39" ended="2013-01-28 11:08:20" ><user_agent source_type="Mobile Device" sub_type="Direct"><platform>iOS 6</platform><agent>Safari 6</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39590421" ipaddress="85.225.210.123" countryCode="SE" countryName="Sweden" started="2013-01-28 11:08:15" ended="2013-01-28 11:11:39" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 8</platform><agent>Chrome 24.0</agent><referrer>http://t.co/2mm6ISys</referrer></user_agent></respondents>
+  <respondents rID="39590459" ipaddress="208.102.162.148" countryCode="US" countryName="United States" started="2013-01-28 11:09:30" ended="2013-01-28 11:12:10" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Safari 5.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39591073" ipaddress="62.227.102.202" countryCode="DE" countryName="Germany" started="2013-01-28 11:09:42" ended="2013-01-28 11:18:34" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows Vista</platform><agent>IE 9.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39592498" ipaddress="160.109.104.44" countryCode="US" countryName="United States" started="2013-01-28 11:32:20" ended="2013-01-28 11:33:33" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>IE 8.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39595314" ipaddress="108.45.112.228" countryCode="US" countryName="United States" started="2013-01-28 11:53:07" ended="2013-01-28 12:00:36" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39603841" ipaddress="78.86.26.165" countryCode="GB" countryName="United Kingdom" started="2013-01-28 13:28:32" ended="2013-01-28 13:30:26" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 18.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39604032" ipaddress="50.56.230.140" countryCode="US" countryName="United States" started="2013-01-28 13:31:32" ended="2013-01-28 13:32:29" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 18.0</agent><referrer>http://plus.url.google.com/url?sa=z&amp;n=1359397890536&amp;url=http%3A%2F%2Ft.co%2FKhWP9dDb&amp;usg=fOh-anLnVncXNXakyW6ER6e3NJ4.</referrer></user_agent></respondents>
+  <respondents rID="39604069" ipaddress="204.237.106.231" countryCode="CA" countryName="Canada" started="2013-01-28 13:31:26" ended="2013-01-28 13:32:47" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 10.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39604841" ipaddress="70.112.32.161" countryCode="US" countryName="United States" started="2013-01-28 13:40:34" ended="2013-01-28 13:41:32" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Chrome 24.0</agent><referrer>http://plus.url.google.com/url?sa=z&amp;n=1359398433977&amp;url=http%3A%2F%2Ft.co%2FKhWP9dDb&amp;usg=s5-ZW4wOEtKE2Amadg5oXrvF7rU.</referrer></user_agent></respondents>
+  <respondents rID="39604892" ipaddress="62.78.151.236" countryCode="FI" countryName="Finland" started="2013-01-28 13:40:31" ended="2013-01-28 13:41:56" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Chrome 0.0</agent><referrer>http://plus.url.google.com/url?sa=z&amp;n=1359398434067&amp;url=http%3A%2F%2Ft.co%2FKhWP9dDb&amp;usg=NPipOnm_rYNopnpnv-AwedawEIM.</referrer></user_agent></respondents>
+  <respondents rID="39606383" ipaddress="85.182.74.126" countryCode="DE" countryName="Germany" started="2013-01-28 13:56:24" ended="2013-01-28 13:58:09" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Safari 6.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39608359" ipaddress="75.94.132.156" countryCode="US" countryName="United States" started="2013-01-28 14:18:17" ended="2013-01-28 14:19:36" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Chrome 24.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39612285" ipaddress="173.167.120.41" countryCode="US" countryName="United States" started="2013-01-28 14:51:13" ended="2013-01-28 14:57:57" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Chrome 24.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39614519" ipaddress="37.160.5.69" countryCode="XX" countryName="Unknown" started="2013-01-28 15:19:06" ended="2013-01-28 15:20:48" ><user_agent source_type="Mobile Device" sub_type="Direct"><platform>Android 4</platform><agent>Android 4.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39616184" ipaddress="81.82.223.58" countryCode="BE" countryName="Belgium" started="2013-01-28 15:39:16" ended="2013-01-28 15:41:10" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>IE 9.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39618184" ipaddress="71.178.3.223" countryCode="US" countryName="United States" started="2013-01-28 11:08:02" ended="2013-01-28 16:03:57" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows XP</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39619874" ipaddress="67.180.11.170" countryCode="US" countryName="United States" started="2013-01-28 13:59:21" ended="2013-01-28 16:24:49" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.6</platform><agent>Chrome 0.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39622836" ipaddress="93.217.93.24" countryCode="DE" countryName="Germany" started="2013-01-28 16:59:18" ended="2013-01-28 17:00:16" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39639439" ipaddress="66.233.181.171" countryCode="US" countryName="United States" started="2013-01-28 22:23:22" ended="2013-01-28 22:24:53" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Firefox 18.0</agent><referrer>http://plus.url.google.com/url?sa=z&amp;n=1359429806783&amp;url=http%3A%2F%2Ft.co%2FKhWP9dDb&amp;usg=7anvkUF8xZ5llMyXkdUHUdjj8Mc.</referrer></user_agent></respondents>
+  <respondents rID="39646004" ipaddress="91.48.235.156" countryCode="DE" countryName="Germany" started="2013-01-29 03:14:57" ended="2013-01-29 03:16:18" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39646765" ipaddress="217.108.33.15" countryCode="FR" countryName="France" started="2013-01-29 03:51:15" ended="2013-01-29 03:52:46" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows XP</platform><agent>Chrome 16.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39648302" ipaddress="82.47.176.38" countryCode="GB" countryName="United Kingdom" started="2013-01-29 04:41:34" ended="2013-01-29 04:43:30" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39650414" ipaddress="87.79.93.15" countryCode="DE" countryName="Germany" started="2013-01-29 05:46:49" ended="2013-01-29 05:47:48" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39652450" ipaddress="71.175.43.201" countryCode="US" countryName="United States" started="2013-01-29 06:35:33" ended="2013-01-29 06:42:42" ><user_agent source_type="Mobile Device" sub_type="Direct"><platform>iOS 6</platform><agent>Safari 6</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39654193" ipaddress="94.247.34.3" countryCode="CZ" countryName="Czech Republic" started="2013-01-29 07:11:58" ended="2013-01-29 07:26:12" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows Vista</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39656518" ipaddress="198.179.137.242" countryCode="US" countryName="United States" started="2013-01-29 08:05:34" ended="2013-01-29 08:09:49" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>IE 9.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39658916" ipaddress="76.69.114.17" countryCode="CA" countryName="Canada" started="2013-01-29 01:36:21" ended="2013-01-29 08:52:18" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows Vista</platform><agent>Firefox 18.0</agent><referrer>http://t.co/KhWP9dDb</referrer></user_agent></respondents>
+  <respondents rID="39666436" ipaddress="82.33.231.230" countryCode="GB" countryName="United Kingdom" started="2013-01-29 10:38:39" ended="2013-01-29 10:48:39" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>IE 8.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39668243" ipaddress="70.167.182.130" countryCode="US" countryName="United States" started="2013-01-28 17:09:03" ended="2013-01-29 11:13:26" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39688968" ipaddress="149.173.6.51" countryCode="US" countryName="United States" started="2013-01-29 15:58:44" ended="2013-01-29 16:01:05" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>IE 9.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39690763" ipaddress="166.70.244.74" countryCode="US" countryName="United States" started="2013-01-29 16:26:40" ended="2013-01-29 16:29:21" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows XP</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39702790" ipaddress="202.159.135.51" countryCode="AU" countryName="Australia" started="2013-01-29 20:19:26" ended="2013-01-29 20:21:30" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39706651" ipaddress="12.178.11.194" countryCode="US" countryName="United States" started="2013-01-29 22:20:58" ended="2013-01-29 22:23:01" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39709548" ipaddress="71.45.55.131" countryCode="US" countryName="United States" started="2013-01-30 00:04:33" ended="2013-01-30 00:06:17" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39712890" ipaddress="90.37.13.189" countryCode="FR" countryName="France" started="2013-01-30 03:12:13" ended="2013-01-30 03:20:27" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39713997" ipaddress="194.95.119.139" countryCode="DE" countryName="Germany" started="2013-01-30 04:00:54" ended="2013-01-30 04:14:11" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows XP</platform><agent>Firefox 17.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39729596" ipaddress="141.62.31.244" countryCode="DE" countryName="Germany" started="2013-01-30 08:35:45" ended="2013-01-30 08:40:45" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer>http://www.biglist.com/lists/lists.mulberrytech.com/xsl-list/archives/201301/msg00141.html</referrer></user_agent></respondents>
+  <respondents rID="39729794" ipaddress="217.88.204.14" countryCode="DE" countryName="Germany" started="2013-01-30 08:39:24" ended="2013-01-30 08:42:44" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39730390" ipaddress="217.8.57.119" countryCode="DE" countryName="Germany" started="2013-01-30 08:46:29" ended="2013-01-30 08:48:29" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39731271" ipaddress="217.88.204.14" countryCode="DE" countryName="Germany" started="2013-01-30 08:46:39" ended="2013-01-30 08:56:29" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39743138" ipaddress="194.237.142.10" countryCode="SE" countryName="Sweden" started="2013-01-30 10:48:09" ended="2013-01-30 10:52:19" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 18.0</agent><referrer>http://plus.url.google.com/url?sa=z&amp;n=1359560888486&amp;url=http%3A%2F%2Ft.co%2FKhWP9dDb&amp;usg=DpynNI0SQTjMylhSlpB6ojTyIZM.</referrer></user_agent></respondents>
+  <respondents rID="39743331" ipaddress="24.9.231.32" countryCode="US" countryName="United States" started="2013-01-30 10:52:06" ended="2013-01-30 10:53:42" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39749115" ipaddress="217.8.57.119" countryCode="DE" countryName="Germany" started="2013-01-30 11:55:21" ended="2013-01-30 11:57:38" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39798765" ipaddress="217.8.57.119" countryCode="DE" countryName="Germany" started="2013-01-31 03:41:59" ended="2013-01-31 03:52:05" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39814109" ipaddress="92.41.251.246" countryCode="GB" countryName="United Kingdom" started="2013-01-31 08:41:30" ended="2013-01-31 08:42:49" ><user_agent source_type="Browser" sub_type="Direct"><platform>Mac OS X 10.8</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="39933683" ipaddress="85.216.48.16" countryCode="DE" countryName="Germany" started="2013-02-02 07:40:19" ended="2013-02-02 07:44:00" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Firefox 18.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="40011646" ipaddress="74.133.90.148" countryCode="US" countryName="United States" started="2013-02-03 18:18:16" ended="2013-02-03 18:21:09" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="40042373" ipaddress="80.187.107.154" countryCode="DE" countryName="Germany" started="2013-02-04 12:24:16" ended="2013-02-04 12:32:14" ><user_agent source_type="Mobile Device" sub_type="Direct"><platform>iOS 6.1</platform><agent>iPhone</agent><referrer>http://www.biglist.com/lists/lists.mulberrytech.com/xsl-list/archives/201301/msg00141.html</referrer></user_agent></respondents>
+  <respondents rID="40142689" ipaddress="86.62.139.147" countryCode="NO" countryName="Norway" started="2013-02-06 02:32:50" ended="2013-02-06 02:35:27" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows 7</platform><agent>IE 9.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="40160896" ipaddress="87.155.19.191" countryCode="DE" countryName="Germany" started="2013-02-06 10:54:35" ended="2013-02-06 10:55:53" ><user_agent source_type="Browser" sub_type="Direct"><platform>Linux</platform><agent>Chrome 23.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="41076930" ipaddress="91.208.107.60" countryCode="DE" countryName="Germany" started="2013-02-19 03:09:55" ended="2013-02-19 03:11:41" ><user_agent source_type="Browser" sub_type="Direct"><platform>Windows XP</platform><agent>Chrome 24.0</agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="41174603" ipaddress="77.1.240.245" countryCode="DE" countryName="Germany" started="2013-02-20 09:41:37" ended="2013-02-20 09:43:51" ><user_agent source_type="Mobile Device" sub_type="Direct"><platform>iOS 6.1</platform><agent>iPad</agent><referrer>http://www.biglist.com/lists/lists.mulberrytech.com/xsl-list/archives/201301/msg00142.html</referrer></user_agent></respondents>
+  <respondents rID="45685372" ipaddress="69.137.48.150" countryCode="US" countryName="United States" started="2013-04-27 22:44:01" ended="2013-04-27 22:45:50" ><user_agent source_type="Browser" sub_type="Direct"><platform></platform><agent></agent><referrer></referrer></user_agent></respondents>
+  <respondents rID="46548049" ipaddress="131.111.159.172" countryCode="GB" countryName="United Kingdom" started="2013-05-21 05:48:47" ended="2013-05-21 05:50:07" ><user_agent source_type="Browser" sub_type="Direct"><platform></platform><agent></agent><referrer></referrer></user_agent></respondents>
+</formData>
